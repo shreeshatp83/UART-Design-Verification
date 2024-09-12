@@ -15,5 +15,5 @@ The UART module supports data transmission and reception with parameterizable ba
 
 ### Features:
 - Configurable baud rate and clock frequency.
-- Full transaction-level verification using UVM-style testbench with generator, driver, and monitor.
+- Full transaction-level verification using testbench with generator, driver, and monitor.
 - Scoreboard to compare transmitted and received data.
