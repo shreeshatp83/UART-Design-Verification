@@ -14,6 +14,6 @@ The UART module supports data transmission and reception with parameterizable ba
 - **Testbench**: Verification components including generator, driver, monitor, and scoreboard.
 
 ### Features:
-- Configurable baud rate and clock frequency.
+
 - Full transaction-level verification using testbench with generator, driver, and monitor.
 - Scoreboard to compare transmitted and received data.
